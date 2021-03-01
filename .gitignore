@@ -1,0 +1,4 @@
+#generowane pliki
+
+.idea/**/dataSources/
+*.xml
