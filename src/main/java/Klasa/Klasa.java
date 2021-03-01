@@ -6,5 +6,6 @@ public class Klasa {
         int b = 3;
         int c = (int) Math.pow(a,b);
         System.out.println(c);
+        int d = 7;
     }
 }
